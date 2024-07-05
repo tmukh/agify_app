@@ -41,9 +41,3 @@ The BLoC classes are responsible for managing the state of the application. They
 
 https://github.com/tmukh/agify_app/assets/63726184/e5528a26-c5cc-41ae-b6d3-67b83a058839
 
-linked_*.ds
-unlinked.ds
-unlinked_spec.ds
-
-# Android related
-**/android/**/gradle-wrapper.jar
