@@ -36,5 +36,14 @@ We've split the app into five different folders:
 
 The BLoC classes are responsible for managing the state of the application. They receive events from the UI, process them, and emit new states. The UI classes listen to the BLoC classes and rebuild themselves when a new state is emitted. This is mentioned in the ![official documentation](https://bloclibrary.dev/architecture/).
 
+
 ## Demo
 
+https://github.com/tmukh/agify_app/assets/63726184/e5528a26-c5cc-41ae-b6d3-67b83a058839
+
+linked_*.ds
+unlinked.ds
+unlinked_spec.ds
+
+# Android related
+**/android/**/gradle-wrapper.jar
