@@ -1,5 +1,3 @@
-
-// lib/blocs/age_state.dart
 import 'package:equatable/equatable.dart';
 import '../models/person_model.dart';
 abstract class AgeState extends Equatable {
